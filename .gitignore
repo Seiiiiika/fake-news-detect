@@ -3,4 +3,5 @@ __pycache__/
 *.pkl
 *.joblib
 data/raw/
+data/processed/
 .env
